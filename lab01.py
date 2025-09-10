@@ -3,9 +3,9 @@ def main():
     quantity = 5 
     
     # YOUR CODE FOR PART 1 GOES HERE  
-    cost_per_item = $10
+    cost_per_item = 10
     quantity = 3
-    subtotal_cost = $10*3
+    subtotal_cost = 10*3
     tax = (subtotal_cost*0.13)
     total_cost = (tax + subtotal_cost)
     
